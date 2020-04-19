@@ -1,0 +1,2 @@
+# instacrack
+Pake bahasa bash
